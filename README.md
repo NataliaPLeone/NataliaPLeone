@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My Name is Natália Leone
+
+- I'm currently studying computer science
+- I'm learning python 
 <!--
 **NataliaPLeone/NataliaPLeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
