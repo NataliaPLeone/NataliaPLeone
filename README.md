@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name is Natália Leone
+My Name is Natália Prata Leone
 
 - I'm currently studying computer science
 - I'm learning python
